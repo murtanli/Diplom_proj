@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../сайт об игре"
+		},
+		{
+			"path": "../Arab_Market"
+		},
+		{
+			"path": "../Веб дизайн/проект"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "сайт визитка"
+	}
+}
